@@ -1,0 +1,819 @@
+[{
+        "id": "f0d3e8f1-a2b3-40d3-b3e0-8ef9b9d3edb1",
+        "quote": "It does not do to dwell on dreams and forget to live.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "b3c1a2de-f3c3-40a3-a3e0-9ef9b9d3edb1",
+        "quote": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "The ones that love us never really leave us.",
+        "speaker": "Sirius Black",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "We are only as strong as we are united, as weak as we are divided.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "c1e8d3a1-f2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Love is the strongest force in the universe, and it protects us, and it makes us stronger than we could ever be on our own.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "d3e8f1a1-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "It is impossible to manufacture or imitate love.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Half-Blood Prince",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "I solemnly swear that I am up to no good.",
+        "speaker": "Harry Potter",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "There are some things you can't share without ending up liking each other.",
+        "speaker": "J.K. Rowling",
+        "story": "Harry Potter and the Sorcerer's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "f0d3e8f1-a2b3-40d3-b3e0-8ef9b9d3edb1",
+        "quote": "Hogwarts is my home.",
+        "speaker": "Harry Potter",
+        "story": "Harry Potter and the Sorcerer's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "b3c1a2de-f3c3-40a3-a3e0-9ef9b9d3edb1",
+        "quote": "Just because you have the emotional range of a teaspoon doesn't mean we all have.",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Indifference and neglect often do much more damage than outright dislike.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "It is a curious thing, Harry, but perhaps those who are best suited to power are those who have never sought it.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "f0d3e8f1-a2b3-40d3-b3e0-8ef9b9d3edb1",
+        "quote": "The best of us sometimes eat our own words.",
+        "speaker": "Remus Lupin",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "f97d29d7-36c8-44f3-9d37-d931b43c8a12",
+        "quote": "It is the unknown we fear when we look upon death and darkness, nothing more.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Half-Blood Prince",
+        "source": "Book"
+    },
+    {
+        "id": "c6933e23-2a65-4035-894e-cc68c4e5f1a2",
+        "quote": "The truth is a beautiful and terrible thing, and should therefore be treated with great caution.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "I solemnly swear I am up to no good.",
+        "speaker": "Harry Potter",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "c1e8d3a1-f2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "We could all have been killed - or worse, expelled.",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "80f1c4f7-c5ed-4a90-9e19-3e3ec03715a0",
+        "quote": "If I were You-Know-who, I'd want you to feel cut off from everyone else. Because if it's just you alone you're not as much of a threat.",
+        "speaker": "Sirius Black",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "I never knew your mother, but from what I heard she was a remarkable woman. And from what I can tell, you're very like her.",
+        "speaker": "Sirius Black",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "I was the one who suggested You-Know-who should create a secret keeper. It was the best way to protect the secret, as only one person would know the true place to find you.",
+        "speaker": "Sirius Black",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "That's very true. Of course, I don't expect you to understand. You're too young. But you will. Someday. You'll understand that love is the most powerful thing in the universe.",
+        "speaker": "Sirius Black",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Don't you two ever listen to anything? What if I hadn't been able to get rid of that? You could have been killed, or worse, expelled.",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "You're the one who's always telling us to think for ourselves, and now you're telling us to do exactly the opposite.",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "f0d3e8f1-a2b3-40d3-b3e0-8ef9b9d3edb1",
+        "quote": "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "b3c1a2de-f3c3-40a3-a3e0-9ef9b9d3edb1",
+        "quote": "Differences of habit and language are nothing at all if our aims are identical and our hearts are open.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "The wand chooses the wizard, Mr. Potter. It's not always clear why.",
+        "speaker": "Ollivander",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Do not pity the dead, Harry. Pity the living, and above all, those who live without love.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "c1e8d3a1-f2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "You are the true master of death, because the true master does not seek to run away from Death. He accepts that he must die, and understands that there are far, far worse things in the living world than dying.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "f0d3e8f1-a2b3-40d3-b3e0-8ef9b9d3edb1",
+        "quote": "Where your treasure is, there will your heart be also.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "aeea7a81-b858-481a-9fb9-12f6cae48a41",
+        "quote": "Not my daughter, you bitch!",
+        "speaker": "Molly Weasley",
+        "story": "Harry Potter and the Deathly Hallows: Part 2",
+        "source": "Movie"
+    },
+    {
+        "id": "b3a7a0c3-46e7-4a9e-a7f8-b6d2e6e76a97",
+        "quote": "You think the dead we loved ever truly leave us? You think that we don't recall them more clearly than ever in times of great trouble? Your father is alive in you, Harry, and shows himself plainly when you have need of him.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "2b72e6fc-ca6c-4a0c-8b5d-7e23c0e0b7a2",
+        "quote": "Indeed, your failure to understand that there are things much worse than death has always been your greatest weakness.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "9ce2e69d-7a73-4d94-a3d6-3e3f3ef8b941",
+        "quote": "I say there are spots that don't come off… Spots that never come off Snape, d'you know what I mean.",
+        "speaker": "Mad-Eye Moody",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "3e3c3c8e-f1d2-48c5-a7c8-aa4cc09e9a4c",
+        "quote": "Nothing like a night time stroll to give you ideas",
+        "speaker": "Mad-Eye Moody",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "8f63d5b5-eec5-4ce5-8679-10cd38d9ac24",
+        "quote": "If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.",
+        "speaker": "Sirius Black",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "fe3b1d29-c2d5-405d-b86a-e4d00c9e1a0e",
+        "quote": "Curiosity is not a sin… But we should exercise caution with our curiosity… yes, indeed.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Half-Blood Prince",
+        "source": "Book"
+    },
+    {
+        "id": "5d5b5ea5-5f62-4c6a-9b1d-6e5cc6fb8a59",
+        "quote": "In dreams, we enter a world that's entirely our own.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "c6a0db2f-26ab-48e2-9cfb-f73b8aefb741",
+        "quote": "To the well-organized mind, death is but the next great adventure.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "bc3bc8b3-7eb2-47d9-a6f8-49c823b3d9a3",
+        "quote": "We must try not to sink beneath our anguish, Harry, but battle on.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Half-Blood Prince",
+        "source": "Book"
+    },
+    {
+        "id": "8f0f6d73-6ca9-4bf5-8e47-be90f78cbe41",
+        "quote": "It is the unknown we fear when we look upon death and darkness, nothing more.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Half-Blood Prince",
+        "source": "Book"
+    },
+    {
+        "id": "c2afb085-4f73-4dc4-8af8-a4a1c80d7b47",
+        "quote": "Ah, music. A magic beyond all we do here!",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "6789d9d9-3b3f-4c85-b2d2-2c7aee87b8a8",
+        "quote": "People find it far easier to forgive others for being wrong than being right.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "2e972076-7e73-4523-b7ce-f8af94f7ca1e",
+        "quote": "Age is foolish and forgetful when it underestimates youth.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "2e972076-7e73-4523-b7ce-f8af94f7ca2e",
+        "quote": "When you have seen as much of life as I have, you will not underestimate the power of obsessive love.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Half-Blood Prince",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "c1e8d3a1-f2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Fear of a name increases fear of the thing itself.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "d3e8f1a1-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "You sort of start thinking anything's possible if you've got enough nerve.",
+        "speaker": "Ginny Weasley",
+        "story": "Harry Potter and the Half-Blood Prince",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Hearing voices no one else can hear isn't a good sign, even in the wizarding world.",
+        "speaker": "Ron Weasley",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Never trust anything that can think for itself if you can't see where it keeps its brain.",
+        "speaker": "Arthur Weasley",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "b3c1a2de-f3c3-40a3-a3e0-9ef9b9d3edb1",
+        "quote": "As much money and life as you could want! The two things most human beings would choose above all – the trouble is, humans do have a knack of choosing precisely those things that are worst for them.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "f0d3e8f1-a2b3-40d3-b3e0-8ef9b9d3edb1",
+        "quote": "There is no good or evil: only power and those too weak to seek it.",
+        "speaker": "Quirinus Quirrell",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "The mind is not a book, to be opened at will and examined at leisure. Thoughts are not etched on the inside of skulls, to be perused by an invader. The mind is a complex and many-layered thing.",
+        "speaker": "Severus Snape",
+        "story": "Harry Potter and the Half-Blood Prince",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Youth cannot know how age thinks and feels. But old men are guilty if they forget what it was to be young.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "d3e8f1a1-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "He chose the boy he thought most likely to be a danger to him … and notice this, Harry. He chose, not the pureblood (which according to his creed, is the only kind of wizard worth being or knowing), but the half-blood, like himself. He saw himself in you before he had ever seen you, and in marking you with that scar, he did not kill you, as he intended, but gave you powers, and a future, which have fitted you to escape him not once, but four times so far.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Numbing the pain for a while will make it worse when you finally feel it.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Half-Blood Prince",
+        "source": "Book"
+    },
+    {
+        "id": "b3c1a2de-f3c3-40a3-a3e0-9ef9b9d3edb1",
+        "quote": "Time is making fools of us again.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "f0d3e8f1-a2b3-40d3-b3e0-8ef9b9d3edb1",
+        "quote": "Funny way to get to a wizards' school, the train. Magic carpets all got punctures, have they?",
+        "speaker": "Uncle Vernon",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Troll — in the dungeons — thought you ought to know.",
+        "speaker": "Professor Quirrell",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Training for the ballet, Potter?",
+        "speaker": "Draco Malfoy",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "b3c1a2de-f3c3-40a3-a3e0-9ef9b9d3edb1",
+        "quote": "Of all the trees we could've hit, we had to get one that hits back.",
+        "speaker": "Ron Weasley",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "c1e8d3a1-f2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "You will also find that help will always be given at Hogwarts to those who ask for it.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "f0d3e8f1-a2b3-40d3-b3e0-8ef9b9d3edb1",
+        "quote": "Honestly, if you were any slower, you'd be going backward.",
+        "speaker": "Draco Malfoy",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Dobby has never been asked to sit down by a wizard — like an equal.",
+        "speaker": "Dobby",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "I'll be in my bedroom, making no noise and pretending I'm not there.",
+        "speaker": "Harry Potter",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Don't let the muggles get you down.",
+        "speaker": "Ron Weasley",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "b3c1a2de-f3c3-40a3-a3e0-9ef9b9d3edb1",
+        "quote": "Mr. Moony presents his compliments to Professor Snape, and begs him to keep his abnormally large nose out of other people's business.",
+        "speaker": "Mr.Moony/The Marauder's Map",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "c1e8d3a1-f2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "I solemnly swear that I am up to no good.",
+        "speaker": "George Weasley",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Fawkes is a phoenix, Harry. Phoenixes burst into flame when it is time for them to die and are reborn from the ashes.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Are you insane? Of course I want to leave the Dursleys! Have you got a house? When can I move in?",
+        "speaker": "Harry Potter",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Mischief Managed!",
+        "speaker": "Harry Potter",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "b3c1a2de-f3c3-40a3-a3e0-9ef9b9d3edb1",
+        "quote": "Why, dear boy, we don't send wizards to Azkaban just for blowing up their aunts.",
+        "speaker": "Cornelius Fudge",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "c1e8d3a1-f2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Your devotion is nothing more than cowardice. You would not be here if you had anywhere else to go.",
+        "speaker": "Voldemort",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "f0d3e8f1-a2b3-40d3-b3e0-8ef9b9d3edb1",
+        "quote": "Just because it's taken you three years to notice, Ron, doesn't mean no one else has spotted I'm a girl!",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Anyone can speak Troll. All you have to do is point and grunt.",
+        "speaker": "Fred Weasley",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Twitchy little ferret, aren't you, Malfoy?",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "f3e8a1d3-c2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Wit beyond measure is man's greatest treasure.",
+        "speaker": "Luna Lovegood",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "b3c1a2de-f3c3-40a3-a3e0-9ef9b9d3edb1",
+        "quote": "Don't worry. You're just as sane as I am.",
+        "speaker": "Luna Lovegood",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "c1e8d3a1-f2b3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Yeah, Quirrell was a great teacher. There was just that minor drawback of him having Lord Voldemort sticking out of the back of his head!",
+        "speaker": "Harry Potter",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "f0d3e8f1-a2b3-40d3-b3e0-8ef9b9d3edb1",
+        "quote": "Youth can not know how age thinks and feels. But old men are guilty if they forget what it was to be young.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "a1d3e8f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "You should write a book, translating mad things girls do so boys can understand them.",
+        "speaker": "Ron Weasley",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "e1d3a8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Ron - you are the most insensitive wart I have ever had the misfortune to meet.",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "f2c1d3a1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Once again, you show all the sensitivity of a blunt axe.",
+        "speaker": "Nearly Headless Nick",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "c3e8f1d3-b2a3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Dumbledore says people find it far easier to forgive others for being wrong than being right.",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Half-Blood Prince",
+        "source": "Book"
+    },
+    {
+        "id": "d3f1e8a1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "You need your friends, Harry.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "a3e8d1f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "He can run faster than Severus Snape confronted with shampoo.",
+        "speaker": "Fred Weasley",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "b2e8f3a1-d3c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "I always said he was mental. Brilliant and everything, but cracked.",
+        "speaker": "Ron Weasley",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "d3a8e1f3-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Always.",
+        "speaker": "Severus Snape",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "c3d1e8a1-b2f3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Ron, you know full well Harry and I were brought up by Muggles!",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "b3e8f1a1-d2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "It matters not what someone is born, but what they grow to be.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "3b2c4582-d98b-4b8f-a5d9-0138f55ebc0a",
+        "quote": "The consequences of our actions are always so complicated, so diverse, that predicting the future is a very difficult business indeed.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Prisoner of Azkaban",
+        "source": "Book"
+    },
+    {
+        "id": "a3d1e8f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Snape's patronus was a doe, the same as my mother's because he loved her for nearly all of his life, from when they were children.",
+        "speaker": "Harry Potter",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8f3d1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Do not pity the dead, Harry. Pity the living, and, above all those who live without love.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edb1",
+        "quote": "Albus Severus, you were named for two headmasters of Hogwarts. One of them was a Slytherin and he was probably the bravest man I ever knew.",
+        "speaker": "Harry Potter",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edb2",
+        "quote": "Until the very end",
+        "speaker": "James Potter",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edb3",
+        "quote": "Books! And cleverness! There are more important things — friendship and bravery.",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edb4",
+        "quote": "We're with you whatever happens.",
+        "speaker": "Ron Weasley",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edb5",
+        "quote": "No good sittin' worryin' abou' it. What's comin' will come, an' we'll meet it when it does.",
+        "speaker": "Rubeus Hagrid",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edb6",
+        "quote": "Every human life is worth the same, and worth saving.",
+        "speaker": "Kingsley Shacklebolt",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "",
+        "quote": "There's things more importan' than keepin' a job.",
+        "speaker": "Rubeus Hagrid",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edb7",
+        "quote": "Sadly, accidental rudeness occurs alarmingly often. Best to say nothing at all, my dear man.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edb8",
+        "quote": "We've been hearing explosions out of their room for ages, but we never thought they were actually making things. We thought they just liked the noise.",
+        "speaker": "Ginny Weasley",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edb9",
+        "quote": "You know, Minister, I disagree with Dumbledore on many counts... but you cannot deny he's got style...",
+        "speaker": "Phineas Nigellus",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edc0",
+        "quote": "Dobby is free",
+        "speaker": "Dobby",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edc1",
+        "quote": "Accio Brain!",
+        "speaker": "Ron Weasley",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "a1e8d3f1-b2c3-40d3-a3e0-8ef9b9d3edc2",
+        "quote": "I think we've outgrown full-time education... Time to test our talents in the real world, d'you reckon?",
+        "speaker": "Fred Weasley",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "a6e2a1d0-d2e8-4b34-b3a0-aa3ceb3a3e51",
+        "quote": "I mean, it's sort of exciting, isn't it, breaking the rules?",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "dd84f06b-e3a0-4859-92da-56d7a31bce89",
+        "quote": "We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are.",
+        "speaker": "Sirius Black",
+        "story": "Harry Potter and the Order of the Phoenix",
+        "source": "Book"
+    },
+    {
+        "id": "f5dbf98c-8e7c-4747-a045-b9dc9f8af7af",
+        "quote": "It is the quality of one's convictions that determines success, not the number of followers.",
+        "speaker": "Remus Lupin",
+        "story": "Harry Potter and the Goblet of Fire",
+        "source": "Book"
+    },
+    {
+        "id": "a76a7a22-c67d-4a82-8e16-764f1d6d2b20",
+        "quote": "To have been loved so deeply, even though the person who loved us is gone, will give us some protection forever.",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "book"
+    },
+    {
+        "id": "9bd9efd7-d1f3-4e3f-a3b7-b3c8969f1a80",
+        "quote": "Alas! Ear wax!",
+        "speaker": "Albus Dumbledore",
+        "story": "Harry Potter and the Philosopher's Stone",
+        "source": "Book"
+    },
+    {
+        "id": "46b98c92-e83f-47a3-a6d3-c9b8cb0b0a58",
+        "quote": "Amazing! Amazing! This is just like magic!",
+        "speaker": "Gilderoy Lockhart",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "6a7ff4c9-4a68-4a73-b4af-47c43e6e7a73",
+        "quote": "We're coming with you. That was decided months ago — years, really.",
+        "speaker": "Hermione Granger",
+        "story": "Harry Potter and the Deathly Hallows",
+        "source": "Book"
+    },
+    {
+        "id": "12b7d928-2eba-4c24-b6e7-c8d2e3ac94b3",
+        "quote": "You shall not harm Harry Potter!",
+        "speaker": "Dobby",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    },
+    {
+        "id": "6a7ff4c9-4a68-4a73-b4af-47c43e6e7a73",
+        "quote": "Such a beautiful place this is, to be with friends, Dobby feels joy for being with his friends, Harry Potter.",
+        "speaker": "Dobby",
+        "story": "Harry Potter and the Chamber of Secrets",
+        "source": "Book"
+    }]
