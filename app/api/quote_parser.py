@@ -14,7 +14,7 @@ def get_single_quote() -> Dict:
     
     try:
         # open the json file
-        with open(quote_path, "r") as quote_list:
+        with open(quote_path, "r", encoding='utf-8') as quote_list:
             # load the json data into a python dictionary
             data = json.load(quote_list)
     # except FileNotFoundError as e:
