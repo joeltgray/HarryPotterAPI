@@ -8,6 +8,7 @@ import logging
 data = None
 
 def get_single_quote() -> Dict:
+    global data
     quote_path = '/home/joel/WizardingWords/app/api/data/quotes.json'
     
     try:
