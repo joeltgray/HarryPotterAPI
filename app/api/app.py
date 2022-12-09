@@ -14,5 +14,5 @@ def create_app() -> Flask:
 
     # APIS
     api.add_resource(Quotes, '/quote')
-
-    return app
+    application = app
+    return application
