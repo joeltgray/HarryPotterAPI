@@ -16,5 +16,3 @@ def create_app() -> Flask:
     api.add_resource(Quotes, '/quote')
     application = app
     return application
-
-application = create_app()
