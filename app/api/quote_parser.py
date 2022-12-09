@@ -22,7 +22,7 @@ def get_single_quote() -> Dict:
             logging.info("'error': 'The file does not exist.', 'path': {}".format(quote_path))
             # Return a 400 error with the printed message as the json response
             return Response(
-                json.dumps({'error': 'The file does not exist.', 'path': quote_path}),
+                json.dumps({'error': 'The file does not exist.', 'path': quote_path, 'data': data}),
                 status=400,
                 mimetype='application/json'
             )
@@ -33,7 +33,7 @@ def get_single_quote() -> Dict:
         logging.info("'error': 'The file does not contain valid JSON data.', 'path': {}".format(quote_path))
         # Return a 400 error with the printed message as the json response
         return Response(
-            json.dumps({'error': 'The file does not contain valid JSON data.', 'path': quote_path}),
+            json.dumps({'error': 'The file does not contain valid JSON data.', 'path': quote_path, 'data': data}),
             status=400,
             mimetype='application/json'
         )
