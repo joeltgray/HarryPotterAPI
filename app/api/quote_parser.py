@@ -10,8 +10,7 @@ cwd = os.getcwd()
 
 def get_single_quote() -> Dict:
     quote_path = cwd + '/data/quotes.json'
-    with open('paths.txt', 'w') as f:
-        f.write(quote_path)
+    
     try:
         # open the json file
         with open(quote_path) as quote_list:
@@ -22,7 +21,7 @@ def get_single_quote() -> Dict:
             print('The file does not exist.')
             # Return a 400 error with the printed message as the json response
             return Response(
-                json.dumps({'error': 'The file does not exist.'}),
+                json.dumps({'error': 'The file does not exist.', 'path': quote_path}),
                 status=400,
                 mimetype='application/json'
             )
