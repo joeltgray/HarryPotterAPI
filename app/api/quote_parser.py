@@ -10,6 +10,8 @@ cwd = os.getcwd()
 
 def get_single_quote() -> Dict:
     quote_path = cwd + '/data/quotes.json'
+    with open('paths.txt', 'w') as f:
+    f.write(quote_path)
     try:
         # open the json file
         with open(quote_path) as quote_list:
