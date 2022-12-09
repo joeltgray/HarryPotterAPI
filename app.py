@@ -1,8 +1,8 @@
 from flask import Flask
 from flask_restful import Resource, Api, reqparse
-from error_handling import GeneralException
-from request_processor import Quotes
-from ww_api import WWAPI, WWAPIErrors
+from app.api.error_handling import GeneralException
+from app.api.request_processor import Quotes
+from app.api.ww_api import WWAPI, WWAPIErrors
 
 def create_app() -> Flask:
 
