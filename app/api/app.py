@@ -13,6 +13,6 @@ def create_app() -> Flask:
     api = WWAPI(error_list=errors, app=app)
 
     # APIS
-    api.add_resource(Quotes, '/')
+    api.add_resource(Quotes, '/quote')
     application = app
     return application
