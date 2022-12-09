@@ -3,6 +3,7 @@ from typing import Dict
 import json
 import random
 from error_handling import GeneralException
+from utilities import format_json
 import logging
 import traceback
 
@@ -41,5 +42,5 @@ def get_single_quote() -> Dict:
             mimetype='application/json'
         )
 
-    random_quote = random.choice(data)
+    random_quote = format_json(random.choice(data))
     return random_quote
