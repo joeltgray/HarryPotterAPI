@@ -3,13 +3,11 @@ from typing import Dict
 import json
 import random
 from error_handling import GeneralException
-import os
 
 data = None
-cwd = os.getcwd()
 
 def get_single_quote() -> Dict:
-    quote_path = cwd + '/data/quotes.json'
+    quote_path = '/var/www/wizardingwords/app/api/data/quotes.json'
     
     try:
         # open the json file
