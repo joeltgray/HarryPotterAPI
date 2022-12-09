@@ -1,12 +1,13 @@
 import json
 from decimal import Decimal
 from datetime import date
+import logging
 
-def format_json(logger, json_data):
+def format_json(json_data):
     if is_jsonable(json_data) == True:
         return json_data
     else:
-        logger.warning("Json contains unserializable data, returning string-ified version")
+        logging.warning("Json contains unserializable data, returning string-ified version")
         serialised_json = json.dumps(json_data, sort_keys=True, indent=4, separators=(',', ': '), cls=JsonSerialiser)
         return json.loads(serialised_json)
 
