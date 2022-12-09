@@ -3,14 +3,16 @@ from typing import Dict
 import json
 import random
 from error_handling import GeneralException
+import os
 
 data = None
+cwd = os.getcwd()
 
 def get_single_quote() -> Dict:
-    
+    quote_path = cwd + '/data/quotes.json'
     try:
         # open the json file
-        with open('data/quotes.json') as quote_list:
+        with open(quote_path) as quote_list:
             # load the json data into a python dictionary
             data = json.load(quote_list)
     except FileNotFoundError:
