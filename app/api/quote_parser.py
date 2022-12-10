@@ -1,15 +1,31 @@
-from flask import Flask, jsonify, Response
+from flask import Flask, jsonify
 from typing import Dict
 import json
 import random
-from error_handling import GeneralException
 from utilities import format_json
 import logging
 import traceback
+from failure_responses import *
 
 data = None
 
 def get_single_quote() -> Dict:
+    quote_list = get_quote_list()
+    random_quote = format_json(random.choice(quote_list))
+    return random_quote
+
+
+def get_quote_by_uuid(uuid) -> Dict:
+    quote_list = get_quote_list()
+
+    for quote in quote_list:
+        if quote['id'] == str(uuid):
+            return quote
+    
+    return response_missing_uuid(uuid)
+
+
+def get_quote_list() -> Dict:
     global data
     quote_path = '/home/joel/WizardingWords/app/api/data/quotes.json'
     
@@ -18,29 +34,21 @@ def get_single_quote() -> Dict:
         with open(quote_path, "r", encoding='utf-8') as quote_list:
             # load the json data into a python dictionary
             data = json.load(quote_list)
-    # except FileNotFoundError as e:
-    #         # Handle the FileNotFoundError exception
-    #         print('The file does not exist.')
-    #         logging.info("Some sort of not found error error: ", e)
-    #         logging.info("'error': 'The file does not exist.', 'path': {}".format(quote_path))
-    #         # Return a 400 error with the printed message as the json response
-    #         return Response(
-    #             json.dumps({'error': 'The file does not exist.', 'path': quote_path, 'data': data}),
-    #             status=400,
-    #             mimetype='application/json'
-    #         )
+            
+    except FileNotFoundError as e:
+            # Handle the FileNotFoundError exception
+            print('The file does not exist.')
+            logging.info("'error': 'The file does not exist.', 'path': {}".format(quote_path))
+            logging.error(traceback.format_exc())
+
+            return response_missing_file()
+
     except Exception as e:
         # Handle the ValueError exception
         print('The file does not contain valid JSON data.')
-        logging.info("Some sort of value error: ", e)
         logging.info("'error': 'The file does not contain valid JSON data.', 'path': {}".format(quote_path))
         logging.error(traceback.format_exc())
-        # Return a 400 error with the printed message as the json response
-        return Response(
-            json.dumps({'error': 'The file does not contain valid JSON data.', 'path': quote_path, 'data': data}),
-            status=400,
-            mimetype='application/json'
-        )
+        
+        return response_invalid_format()
 
-    random_quote = format_json(random.choice(data))
-    return random_quote
+    return data
