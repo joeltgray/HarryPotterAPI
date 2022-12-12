@@ -27,7 +27,7 @@ def get_quote_by_uuid(uuid) -> Dict:
 
 def get_quote_list() -> Dict:
     global data
-    quote_path = '/home/joel/WizardingWords/app/api/data/quotes.json'
+    quote_path = '/var/www/wizardingwords/app/api/data/quotes.json'
     
     try:
         # open the json file
