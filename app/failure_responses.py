@@ -13,7 +13,7 @@ def response_missing_uuid(uuid) -> Response:
 def response_missing_file() -> Response:
     # Return a 400 error with the printed message as the json response
     return Response(
-        json.dumps({'error': 'The file does not exist.', 'path': quote_path, 'data': data}),
+        json.dumps({'error': 'The file does not exist.', 'data': data}),
         status=400,
         mimetype='application/json'
     )
@@ -21,7 +21,7 @@ def response_missing_file() -> Response:
 def response_invalid_format() -> Response:
     # Return a 400 error with the printed message as the json response
     return Response(
-        json.dumps({'error': 'The file does not contain valid JSON data.', 'path': quote_path, 'data': data}),
+        json.dumps({'error': 'The file does not contain valid JSON data.', 'data': data}),
         status=400,
         mimetype='application/json'
     )
