@@ -8,6 +8,7 @@ import traceback
 from failure_responses import *
 
 data = None
+quote_path = '/var/www/wizardingwords/app/data/quotes.json'
 
 def get_single_quote() -> Dict:
     quote_list = get_quote_list()
@@ -27,7 +28,6 @@ def get_quote_by_uuid(uuid) -> Dict:
 
 def get_quote_list() -> Dict:
     global data
-    quote_path = '/var/www/wizardingwords/app/data/quotes.json'
     
     try:
         # open the json file
