@@ -8,7 +8,7 @@ import traceback
 from failure_responses import *
 
 data = None
-quote_path = '/var/www/wizardingwords/app/data/quotes.json'
+quote_path = '/var/www/portkeyAPI/data/quotes.json'
 
 def get_single_quote() -> Dict:
     quote_list = get_quote_list()
