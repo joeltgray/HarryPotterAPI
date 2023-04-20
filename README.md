@@ -7,6 +7,7 @@ Example: $ curl 'https://api.portkey.uk/quote'
 
 ### Generate a specific quote using UUID:
 Syntax: $ curl 'https://api.portkey.uk/quote/UUID'
+
 Example: $ curl 'https://api.portkey.uk/quote/a3e8d1f3-b2c3-40d3-a3e0-8ef9b9d3edb1'
 
 ## Rate Limit
