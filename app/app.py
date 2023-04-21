@@ -1,10 +1,11 @@
 from flask import Flask
 from flask_restful import Resource, Api, reqparse
+from flask_limiter.util import get_remote_address
+from flask_limiter import Limiter
+from flask_cors import CORS
 from error_handling import GeneralException
 from request_processor import Quote, QuoteByUUID
 from ww_api import WWAPI, WWAPIErrors
-from flask_limiter.util import get_remote_address
-from flask_limiter import Limiter
 
 def create_app() -> Flask:
 
@@ -14,6 +15,9 @@ def create_app() -> Flask:
 
     # Flask App and API
     app = Flask("HarryPotterAPI")
+
+    #Enable cross-origin access to this api
+    cors = CORS(app, resources={r"/*": {"origins": "*"}})
 
     # Rate Limiting
     limiter = Limiter(app=app, key_func=get_remote_address, default_limits=["50 per minute"])
